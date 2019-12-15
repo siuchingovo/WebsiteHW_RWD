@@ -229,6 +229,11 @@
         padding-top: 8.2px;
         padding-bottom: 8.2px;
     }
+	
+    .Logo_img {
+        width: 32.67px;
+        height: 34.61px;
+    }	
     
     .Right_Corner {
         display: flex;
@@ -421,6 +426,11 @@
         align-content: center;
         padding-top: 13px;
         padding-bottom: 13px;
+    }
+	
+    .Logo_img {
+        width: 54.45px;
+        height: 54.42px;
     }
 
     .Right_Corner {
